@@ -1,0 +1,11 @@
+Job1:  3709 /256 = (15  pages) /4 = 4  frames in memory
+Job2:  11522/256 = (46  pages) /4 = 12 frames in memory
+Job3:  4868 /256 = (20  pages) /4 = 5  frames in memory
+Job4:  14464/256 = (57  pages) /4 = 15 frames in memory
+Job5:  17472/256 = (69  pages) /4 = 18 frames in memory
+Job6:  2320 /256 = (10  pages) /4 = 3  frames in memory
+Job7:  27264/256 = (107 pages) /4 = 27 frames in memory
+Job8:  8960 /256 = (35  pages) /4 = 9  frames in memory
+Job9:  11488/256 = (45  pages) /4 = 12 frames in memory
+Job10: 11584/256 = (46  pages) /4 = 12 frames in memory
+Job11: 7664 /256 = (30  pages) /4 = 8 frames in memory

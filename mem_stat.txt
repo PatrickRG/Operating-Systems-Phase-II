@@ -1,0 +1,52 @@
+JOB ID   SIZE     FRAMES   INT. FRAG.   REF. LENGTH  PAGE FAULTS  CLEAN    DIRTY    FF/TF    AF/TF    
+NORMAL_TERMINATION                                
+6        2320     3        240          222          17           11       3        
+ABNORMAL_TERMINATION                              
+2        11522    12       254          226          16           3        0        
+NORMAL_TERMINATION                                
+3        4868     5        252          319          23           14       4        
+NORMAL_TERMINATION                                
+23       10116    10       124          380          35           25       0        
+                                                                                    0.09375  0.90625  
+NORMAL_TERMINATION                                
+9        11488    12       32           594          57           45       0        
+NORMAL_TERMINATION                                
+1        3709     4        131          435          29           19       6        
+ABNORMAL_TERMINATION                              
+22       7664     8        16           436          34           21       4        
+NORMAL_TERMINATION                                
+21       11584    12       192          511          66           54       0        
+                                                                                    0.1171875 0.8828125 
+NORMAL_TERMINATION                                
+8        8960     9        256          762          63           50       4        
+NORMAL_TERMINATION                                
+11       7664     8        16           435          50           40       2        
+NORMAL_TERMINATION                                
+17       2320     3        240          685          44           30       11       
+NORMAL_TERMINATION                                
+4        14464    15       128          820          46           29       2        
+                                                                                    0.1796875 0.8203125 
+NORMAL_TERMINATION                                
+10       11584    12       192          967          93           76       5        
+NORMAL_TERMINATION                                
+5        17472    18       192          1024         84           66       0        
+NORMAL_TERMINATION                                
+20       11488    12       32           1004         71           54       5        
+NORMAL_TERMINATION                                
+14       4868     5        252          520          45           35       5        
+                                                                                    0.125    0.875    
+NORMAL_TERMINATION                                
+19       8960     9        256          1104         92           73       10       
+NORMAL_TERMINATION                                
+7        27264    27       128          1563         152          125      0        
+ABNORMAL_TERMINATION                              
+12       3709     4        131          442          27           15       7        
+NORMAL_TERMINATION                                
+15       14464    15       128          769          66           50       1        
+                                                                                    0.5546875 0.4453125 
+NORMAL_TERMINATION                                
+18       27264    27       128          901          108          81       0        
+NORMAL_TERMINATION                                
+13       11522    12       254          707          64           51       1        
+NORMAL_TERMINATION                                
+16       17472    18       192          1088         130          112      0        
